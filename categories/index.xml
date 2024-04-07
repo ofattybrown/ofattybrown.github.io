@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Fatty Brown&#39;s Blog</title>
+    <title>Categories on Fatty Brown</title>
     <link>https://ofattybrown.github.io/categories/</link>
-    <description>Recent content in Categories on Fatty Brown&#39;s Blog</description>
+    <description>Recent content in Categories on Fatty Brown</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Thu, 04 Apr 2024 18:27:47 +0800</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ofattybrown.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Android and Gaming</title>
-      <link>https://ofattybrown.github.io/categories/android-and-gaming/</link>
-      <pubDate>Thu, 04 Apr 2024 18:27:47 +0800</pubDate>
-      <guid>https://ofattybrown.github.io/categories/android-and-gaming/</guid>
+      <title>Syntax</title>
+      <link>https://ofattybrown.github.io/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ofattybrown.github.io/categories/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://ofattybrown.github.io/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ofattybrown.github.io/categories/themes/</guid>
       <description></description>
     </item>
   </channel>
