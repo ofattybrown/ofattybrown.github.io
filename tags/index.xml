@@ -1,46 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Fatty Brown&#39;s Blog</title>
+    <title>Tags on Fatty Brown</title>
     <link>https://ofattybrown.github.io/tags/</link>
-    <description>Recent content in Tags on Fatty Brown&#39;s Blog</description>
+    <description>Recent content in Tags on Fatty Brown</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Thu, 04 Apr 2024 18:27:47 +0800</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ofattybrown.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game</title>
-      <link>https://ofattybrown.github.io/tags/game/</link>
-      <pubDate>Thu, 04 Apr 2024 18:27:47 +0800</pubDate>
-      <guid>https://ofattybrown.github.io/tags/game/</guid>
+      <title>Css</title>
+      <link>https://ofattybrown.github.io/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ofattybrown.github.io/tags/css/</guid>
       <description></description>
     </item>
     <item>
-      <title>New</title>
-      <link>https://ofattybrown.github.io/tags/new/</link>
-      <pubDate>Thu, 04 Apr 2024 18:27:47 +0800</pubDate>
-      <guid>https://ofattybrown.github.io/tags/new/</guid>
+      <title>Html</title>
+      <link>https://ofattybrown.github.io/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ofattybrown.github.io/tags/html/</guid>
       <description></description>
     </item>
     <item>
-      <title>Photos</title>
-      <link>https://ofattybrown.github.io/tags/photos/</link>
-      <pubDate>Thu, 04 Apr 2024 18:27:47 +0800</pubDate>
-      <guid>https://ofattybrown.github.io/tags/photos/</guid>
+      <title>Hugo-Basic-Example</title>
+      <link>https://ofattybrown.github.io/tags/hugo-basic-example/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ofattybrown.github.io/tags/hugo-basic-example/</guid>
       <description></description>
     </item>
     <item>
-      <title>Python</title>
-      <link>https://ofattybrown.github.io/tags/python/</link>
-      <pubDate>Thu, 04 Apr 2024 18:27:47 +0800</pubDate>
-      <guid>https://ofattybrown.github.io/tags/python/</guid>
+      <title>Markdown</title>
+      <link>https://ofattybrown.github.io/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ofattybrown.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
-      <title>React</title>
-      <link>https://ofattybrown.github.io/tags/react/</link>
-      <pubDate>Thu, 04 Apr 2024 18:27:47 +0800</pubDate>
-      <guid>https://ofattybrown.github.io/tags/react/</guid>
+      <title>Privacy</title>
+      <link>https://ofattybrown.github.io/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ofattybrown.github.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://ofattybrown.github.io/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ofattybrown.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>https://ofattybrown.github.io/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ofattybrown.github.io/tags/text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>https://ofattybrown.github.io/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ofattybrown.github.io/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>
